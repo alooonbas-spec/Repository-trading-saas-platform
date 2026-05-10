@@ -4,7 +4,7 @@ export default function Pricing() {
       <h1>Trading SaaS Pro</h1>
 
       <a
-        href="PASTE_YOUR_LEMON_SQUEEZY_LINK"
+        href="https://maxalonovsky.lemonsqueezy.com/checkout/buy/57cc2c1a-7f5b-4834-af74-4da9728efca3"
         target="_blank"
       >
         🚀 Buy Access
